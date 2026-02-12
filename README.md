@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cardioformer: Advancing AI in ECG Analysis with Multi-Granularity Patching and ResNet
 
 ## Authors:
@@ -90,3 +91,6 @@ If you find this repo useful, please star our project and cite our paper.
 # Acknowledgement
 
 This project is constructed based on the code in repo [Time-Series-Library](https://github.com/thuml/Time-Series-Library). Thanks a lot for their amazing work on implementing state-of-arts time series methods!
+=======
+# PBL_4_AI_HEALTHCARE
+>>>>>>> ed789a5b469de633141b59b06013f268fdb09462
