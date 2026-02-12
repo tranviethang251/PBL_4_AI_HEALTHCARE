@@ -1,0 +1,3 @@
+classification_PTBXL_Cardioformer_Paper_Cardioformer_PTB-XL_ftM_sl250_ll48_pl96_dm128_nh4_el6_dl1_df256_fc1_ebtimeF_dtTrue_Paper_seed41  
+Validation results --- Loss: 0.77646, Accuracy: 0.72948, Precision: 0.65628, Recall: 0.58661, F1: 0.60871, AUROC: 0.89465, AUPRC: 0.66944
+Test results --- Loss: 0.80151, Accuracy: 0.71863, Precision: 0.64410, Recall: 0.56867, F1: 0.59148, AUROC: 0.88882, AUPRC: 0.65071
